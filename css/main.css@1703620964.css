@@ -73,7 +73,7 @@ body {
 
 
 :root {
-    --main-color: #07a35a;
+    --main-color: #4b07a3;
     --dark-color: #141414;
     --light-dark-color: #242424;
 }
@@ -141,11 +141,11 @@ header .navlist .login {
     font-size: 15px;
     padding: 6px 8px;
     color: #ffffff;
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 header .navlist .login:hover {
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 header .navlist .login:hover {
@@ -239,7 +239,7 @@ header .navlist .login:hover {
   
 
 #main .page-text .minecraft {
-    background: linear-gradient(90deg, #07a35a, #07a35a);
+    background: linear-gradient(90deg, #4b07a3, #4b07a3);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -255,7 +255,7 @@ header .navlist .login:hover {
 }
 
 #main .page-text .main-btn:hover {
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 #main .page-text .faq {
@@ -569,7 +569,7 @@ header .navlist .login:hover {
 }
 
 #showcase .video-text .install-btn:hover {
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 #showcase .video-text .install-btn span {
@@ -623,7 +623,7 @@ header .navlist .login:hover {
     box-shadow: 0 4px 20px #0000003e;
 }
 #inst-client .inst-text .install:hover {
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 #inst-client .inst-text .install span {
