@@ -75,7 +75,7 @@ body {
 
 
 :root {
-    --main-color: #07a35a;
+    --main-color: #4b07a3;
     --dark-color: #141414;
     --light-dark-color: #242424;
 }
@@ -141,11 +141,11 @@ header .navlist .login {
     font-size: 15px;
     padding: 6px 8px;
     color: #ffffff;
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 header .navlist .login:hover {
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 header .navlist .login:hover {
@@ -199,7 +199,7 @@ header .navlist .login:hover {
 }
 
 #main .page-text .main-btn:hover {
-    background: #07a35a;
+    background: #4b07a3;
 }
 
 #main .page-text .faq {
